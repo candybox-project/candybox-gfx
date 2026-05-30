@@ -1,1 +1,1 @@
-# candyobx-gfx
+# candybox-gfx
