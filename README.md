@@ -1,12 +1,14 @@
 # 🍬 Candybox-GFX 🍬
 
-## 📝 Description
+### 📝 Description
 Candybox-GFX is a high-performance graphics engine written in Rust, designed to simplify working with low-level graphics. It is also part of the [Candybox](https:://github.com/candyb0x/candybox) project and is primarily developed for web page rendering
+___
 
-## 🧪 Use Examples
+### 🧪 Use Examples
 Since the engine is still under development, it can currently render rectangles of any size with any textures:
 
 Using this framework happens directly in your Rust project. See the documentation section for more details
+___
 
 ## ⚙️ Installation and Usage
 1. To install, navigate to the root of your Rust project and add the following dependency to your Cargo.toml file:
@@ -18,12 +20,14 @@ candybox-gfx = "*"
 ``` rust
 use candybox_gfx::*;
 ```
+___
 
-## 📖 Documentation
+### 📖 Documentation
 To learn how to use Candybox-GFX, visit the project's [documentation](https://google.com) page.
 If you want to contribute to the project, you can visit the [developer documentation](https://google.com) page
+___
 
-## ⚖️ License
+### ⚖️ License
 Candybox-GFX - High-performance graphics engine
   Copyright (C) 2026  Candybox Project
 
@@ -39,8 +43,9 @@ Candybox-GFX - High-performance graphics engine
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+___
 
-## ⌨️ Contacts
+### ⌨️ Contacts
 #### Maintainer
 * [github](https://github.com/spooky-da-scarry) 
 * spooky-da-scarry@onionmail.org
