@@ -10,6 +10,8 @@ Candybox-GFX is a high-performance graphics engine written in Rust, designed to 
 
 Since the engine is still under development, it can currently render rectangles of any size with any textures:
 
+video
+
 Using this framework happens directly in your Rust project. See the documentation section for more details
 
 ## ⚙️ Installation and Usage
@@ -39,7 +41,7 @@ the Free Software Foundation, either version 3 of the License.
 
 See the [LICENSE](LICENSE) file for the full license text
 
-## ⌨️ Contacts
+### ⌨️ Contacts
 
 #### Maintainer
 * [github](https://github.com/spooky-da-scarry) 
