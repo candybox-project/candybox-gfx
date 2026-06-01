@@ -2,7 +2,7 @@
 
 ### 📝 Description
 Candybox-GFX is a high-performance graphics engine written in Rust, designed to simplify working with low-level graphics. It is also part of the [Candybox](https:://github.com/candyb0x/candybox) project and is primarily developed for web page rendering
-___
+____
 
 ### 🧪 Use Examples
 Since the engine is still under development, it can currently render rectangles of any size with any textures:
