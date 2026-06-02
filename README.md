@@ -1,6 +1,6 @@
 # 🍬 Candybox-GFX 🍬
 
-photo
+![logo](assets/logo.png)
 
 ### 📝 Description
 
