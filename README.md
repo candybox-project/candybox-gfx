@@ -1,4 +1,4 @@
-![logo](assets/logo.png)
+![logo](logo.png)
 
 # Candybox-GFX
 
