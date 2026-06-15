@@ -106,6 +106,7 @@ pub struct App {
     material_data: textures::Texture,
     material_data1: textures::Texture,
     last_uuid: usize,
+    last_x: f32,
 
     image: DynamicImage
 }
@@ -135,6 +136,7 @@ impl App {
             last_uuid: 0,
             material_data,
             material_data1,
+            last_x: -1.0,
             image
         }
     }
@@ -259,7 +261,7 @@ impl ApplicationHandler for App {
                     (KeyCode::KeyQ, true) => {
                         // add mesh
                         let mut mesh_data = meshes::rectangle::Rectangle::new(
-                            0.0,
+                            self.last_x,
                             0.0,
                             1.0,
                             1.0,
@@ -284,6 +286,7 @@ impl ApplicationHandler for App {
                         };
                         
                         self.last_uuid += 1;
+                        self.last_x += 1.0;
                     },
                     (KeyCode::KeyW, true) => {
                         // update
